@@ -1,1 +1,63 @@
 
+.left-sidebar
+{
+  width: 30%;
+  border:1px solid var(--grey);
+  height: overflow;
+ 
+}
+.central-component
+{
+  width: 50%;
+  border:1px solid var(--grey);
+  height: overflow;
+  
+}
+.right-sidebar
+{
+  width: 20%;
+  border:1px solid var(--grey);
+  height: overflow;
+  
+}
+.header
+{
+  height:68px;
+}
+.star-icon{
+  color: var(--blue);
+}
+.tweet-avtar
+{
+  width:40px;
+  height:40px;
+  border-radius: 50%;
+}
+.tweet-textarea
+{
+  border:none;
+  width: 42vw;
+}
+.user-handle
+{
+  color: var(--dark-grey);
+}
+.tweetbox-action-icon
+{
+  width:11vw;
+  cursor: pointer;
+}
+.active-item
+{
+   color: var(--blue);
+}
+.twitter-bird
+{
+  color: var(--blue);
+  
+}
+.tweet-button
+{
+  border: none;
+  
+}
